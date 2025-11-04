@@ -1,0 +1,4 @@
+"AadClientId": "08188c92-c773-4346-ad3d-85948c9d1849",
+"AadSecret": "MRB8Q~YPKHHDxTpU.NS21gTbQjmJGn-ixvFW_bta",
+"AadTenantDomain": "umarkhan.myworkspace.microsoft.com",
+"AadTenantId": "bb7e3d40-aa2a-487e-8bee-892d575c7d44",
